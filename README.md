@@ -1,3 +1,3 @@
-# apnacollege-demo
+cd # apnacollege-demo
 This is my first repository
-author:orthy
+author:orthy mum
